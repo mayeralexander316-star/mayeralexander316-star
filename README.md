@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I’m Edwin Moore 👋
 
-<!--
-**mayeralexander316-star/mayeralexander316-star** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a geophysicist and field seismologist focused on understanding the Earth through seismic signals. I work at the intersection of data acquisition, geophysical interpretation, and practical risk analysis to help teams make better decisions in the field and beyond.
 
-Here are some ideas to get you started:
+## 🔭 Current Focus
+- Field seismic acquisition and monitoring
+- Waveform processing and event interpretation
+- Geophysical data analysis for infrastructure and hazard assessment
+- Building reproducible analysis workflows for complex subsurface data
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Tech Stack
+
+### 🚀 Core
+- Python
+- MATLAB
+- Seismic processing workflows
+- GIS and spatial analysis
+
+### 🛠️ Tools
+- QGIS
+- ArcGIS
+- SQL
+- Git
+- Linux
+
+### 📊 Specialization
+- Seismic signal analysis
+- Microseismic monitoring
+- Geologic interpretation
+- Data validation and quality control
+
+## 🌍 About Me
+I spend my time in the field collecting ground motion data, validating signals, and translating complex seismic patterns into meaningful insight. I’m interested in how geophysics can improve resilience, safety, and understanding of the natural systems around us.
+
+## 🔗 Connect
+- Portfolio: https://www.wood-williams.org/
+- Company: Foster, Adkins and Howard
+- Location: Midwest, USA
